@@ -1,0 +1,19 @@
+-- Pseudocode Activity
+
+Start
+
+1. Grab the alarm clock. (On the nightstand)
+2. Set an alarm. (A.M/P.M time)
+3. Give the alarm audio 
+
+when the alarm buzzes:
+1. Wake up and turn off alarm.
+
+2. Snooze or turn off alarm.
+a. Sleep for 5 minutes more.
+b. Sleep for 10 minutes more.
+
+repeat till the additional time is up
+a. Give x more minutes
+b. Stop the alarm.
+End
